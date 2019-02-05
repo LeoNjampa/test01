@@ -1,0 +1,72 @@
+Problem we are trying to solve:
+-------------------------------
+Top 3 ranked problems, write out a hypothesis that explains how you expect customers behaviour will change if this problem is solved.
+
+Identify the largest product and project risks associated with executing on one of the hypotheses.
+
+------
+
+Hypothesis:
+Healthy eating is universally wanted / sought for... customers just need a helping hand to adopt; we are all busy. Healthy ready recipes to pick from, we will shop for the ingredients and deliver to you. Help break from "unhealthy habits".
+
+
+CUSTOMER DEVELOPMENT:
+Most impt thing u will do as PM.
+
+* Why do so many companies fail? Why are features not successful?
+  - focusing on the wrong people
+  - they think they know what people want without checking with users
+  - we don't test / check our initial thoughts/visions and hypothesis are still valied.
+
+#You are not the customer
+
+# Your CEO / BOSS is NOT the customer
+
+# How do we know if a problem is worth solving.
+-Knowing how much someone will pay for it
+-market value
+-cost for solving the problem
+
+# Finding Your Customers
+- Customer Vs User: customer is the person that pays for the product. The user uses the product i.e. the user is the one who faces the problem you are solving.
+
+Try to identify your early adopters - they are way more forgiven! They are enthusiastic and bought into helping you solve your problem.
+
+Activity - Find users for your product:
+1. What types of people or groups do you want to target? --- N/B: target behavioural patterns and motivations than age range.
+2. In what places or forums can you find these users? -- Gyms, Doctors/Nutritionists, Online forums, other groups, Shops
+3. Aim to come up with 7 - 10 different ways to find users to interview.
+
+Bonus: Can you find examples of people having / discussing this problem online?
+
+# Interview technigues
+Interview questions should be based on our assumptions.
+
+#Interviewing users:
+Ask open questions.
+Avoid inserting biais in your questions
+Less interviews, more conversations!
+... tell me more about that...
+... help me understand better
+... what do you mean by...
+... That's really interesting. Can you tell me how that relates to...
+
+Finding your customer...!
+Customers cannot predict the future...
+
+Tell me about the last time...
+Who else has this problem...
+What tools do you use for...
+How often do you...
+How much time/money does this cost you...
+
+Talk to people that are not family or friends!
+
+Even if family & friends fall into your target user demographic.
+
+User Interview Best Practices:
+Interview in person
+
+
+
+
