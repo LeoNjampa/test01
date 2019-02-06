@@ -68,5 +68,46 @@ User Interview Best Practices:
 Interview in person
 
 
+================================ DAY 2 ================================================
+
+#User Personas
+
+Who are we building our product for?
+
+   --Archetype of your typical user
+   --Build based on distilling interviews
+
+How many interviews do i need? Until you get consistency... 
+    --iterative process, refining questions as need arise.
+
+Analyse Results
+
+--Take notes
+-- identify trends / themes
+-- cluster the themes
+
+Learning about competition
+--Usability tests
+--Online research
+etc
+
+
+Competitive Metrics
+-- Comparison matrices
+
+
+#Metrics & KPIs
+
+
+Remember to associate each new feature with KPIs before any design/build work commences.
+
+
+
+
+
+
+
+
+
 
 
