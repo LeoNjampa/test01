@@ -101,6 +101,26 @@ Competitive Metrics
 
 Remember to associate each new feature with KPIs before any design/build work commences.
 
+=============== DAY 4 ================
+#Roadmaps
+
+Roadmaps is the PM's gem.
+
+OKR:
+
+Objective: bold and qualitative
+Key Results: tangible and quantitative
+
+OKRs are a good framework to commiting to deliver a product... check it out
+
+#Roadmap
+* The Product Manager's most valued artifact
+* Owned by PM
+* Contributed to, built by, all Stakeholders
+* ==> Roadmap is the visualisation for the vision of a product.
+
+
+
 
 
 
